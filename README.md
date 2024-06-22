@@ -4,4 +4,4 @@
     2. lxml
     3. requests
     4. pandas
-    
+    5. ipython
